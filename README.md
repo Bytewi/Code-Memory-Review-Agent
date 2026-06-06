@@ -18,7 +18,6 @@
 **Team: The Solution Team**
 
 | 👤 Name | 
-|---|---|
 | Pranav Lakhe | 
 | Aryan Raut | 
 | Parth Vishnu | 
