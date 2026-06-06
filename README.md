@@ -17,7 +17,7 @@
 
 **Team: The Solution Team**
 
-| 👤 Name | GitHub |
+| 👤 Name | 
 |---|---|
 | Pranav Lakhe | 
 | Aryan Raut | 
